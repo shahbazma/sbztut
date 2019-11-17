@@ -1,10 +1,16 @@
-package com.sbz.collections;
+package com.sbz.tut;
+
+
 
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 import java.util.Map.Entry;
 
+/**
+ * @author shahbazma
+ *
+ */
 public class Testing {
 
 	public static void main(String[] args) {
