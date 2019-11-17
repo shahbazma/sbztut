@@ -1,4 +1,4 @@
-package com.sbz.collections;
+package com.sbz.tut;
 
 //A Class used to send a message 
 class Sender 

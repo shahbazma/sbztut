@@ -1,4 +1,4 @@
-package com.sbz.collections;
+package com.sbz.tut;
 
 import java.util.Arrays;
 import java.util.HashMap;
