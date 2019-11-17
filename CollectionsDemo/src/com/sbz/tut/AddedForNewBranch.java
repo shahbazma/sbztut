@@ -9,7 +9,7 @@ public class AddedForNewBranch {
 		//jdoasijdaosijdo
 		//smaskmakls
 		
-		System.out.println("new brankc");
+		System.out.println("new brankc edited");
 	}
 
 }
